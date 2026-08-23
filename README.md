@@ -1,31 +1,30 @@
-# AI/ML Internship Portfolio
+# Portofolio AI/ML — Rizal Dermawan
 
-Portofolio belajar dan proyek AI/ML milik Rizal Dermawan.
+Hub ini menampilkan proyek AI/ML yang dapat diperiksa dan dijalankan ulang. Catatan latihan harian tidak dimasukkan agar recruiter dapat langsung melihat masalah, metode, hasil, dan bukti kerja.
 
-## Tentang saya
+## Proyek
 
-Saya sedang membangun kemampuan machine learning dari fondasi sampai deployment dan mencari kesempatan magang AI/ML. Fokus saya adalah membuat eksperimen yang dapat diulang, metrik yang jelas, dan aplikasi yang bisa dicoba.
-
-## Proyek unggulan
-
-| Proyek | Masalah | Teknologi | Bukti |
+| Proyek | Fokus | Status | Tautan |
 |---|---|---|---|
-| Financial Inclusion ML | Akan diisi pada Level 1 | scikit-learn, LightGBM, MLflow | Repo, skor, laporan |
-| MNIST From Scratch | Akan diisi pada Level 1 | NumPy, PyTorch | Akurasi dan grafik |
-| Indonesian Docs RAG | Akan diisi pada Level 2 | embeddings, reranker, FastAPI | Demo, eval, dan CI |
+| Titanic ML Baseline | Klasifikasi tabular, validasi, dan submission Kaggle | Sedang dikerjakan | [Buka repo](https://github.com/dermawanw/titanic-ml-baseline) |
+| Financial Inclusion | Feature engineering dan evaluasi data tidak seimbang | Direncanakan | Repo akan ditambahkan |
+| MNIST from NumPy to PyTorch | Dasar neural network dan perbandingan implementasi | Direncanakan | Repo akan ditambahkan |
+| Indonesian Docs RAG | Retrieval, sitasi sumber, dan evaluasi jawaban | Direncanakan | Repo akan ditambahkan |
 
-## Bukti kompetisi
+## Yang dapat diperiksa
 
-| Tanggal | Kompetisi | Skor/rank | Yang saya pelajari |
-|---|---|---|---|
-| 2026-10-18 | Kaggle Titanic | Belum dimulai | Belum diisi |
+Setiap proyek akan menyediakan:
 
-## Kemajuan
+1. Masalah dan metrik keberhasilan yang jelas.
+2. Kode yang dipisahkan dari notebook eksplorasi.
+3. Petunjuk untuk membuat ulang environment dan hasil.
+4. Bukti evaluasi, keterbatasan, serta langkah perbaikan.
 
-Lihat [PROGRESS.md](PROGRESS.md) untuk log mingguan dan [PROJECT_CHECKLIST.md](PROJECT_CHECKLIST.md) untuk standar setiap proyek.
+## Fokus saat ini
 
-## Kontak
+Membangun baseline Titanic yang sederhana dan dapat direproduksi sebelum mencoba feature engineering atau model yang lebih kompleks.
 
-- GitHub: [dermawanw](https://github.com/dermawanw)
-- LinkedIn: tambahkan tautan
-- Email: tambahkan email profesional
+## Profil
+
+[GitHub — dermawanw](https://github.com/dermawanw)
+
